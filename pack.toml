@@ -1,0 +1,13 @@
+name = "monstro"
+author = "felipao"
+version = "1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "36f88c2f938d1eac0c71150a7ef92bf9b7a9c94efe19be0d12411d3e54eb1e79"
+
+[versions]
+forge = "47.2.16"
+minecraft = "1.20.1"

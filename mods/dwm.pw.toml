@@ -1,0 +1,13 @@
+name = "Doctor Who - Reborn"
+filename = "DoctorWhoMod-1.20.1-forge-1.0.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "56257617d2071b3ec3cde542c15d78e24bae7842"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4673986
+project-id = 884515
