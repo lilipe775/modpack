@@ -280,11 +280,6 @@ hash = "cc3646d68b3dc6735545a5f571c99454f2363b4441982d5063c2ce939b8c4658"
 metafile = true
 
 [[files]]
-file = "mods/origins-plus-plus.pw.toml"
-hash = "fa48ca5b38790724ee6826cac5dd41aa38256a26c47ab4941939a40c2f7cf288"
-metafile = true
-
-[[files]]
 file = "mods/parcool.pw.toml"
 hash = "3fcda843ac367b33b2909ba87ab20152e7c9c6f8ae7099f25f00f2fe6e1bf0fa"
 metafile = true
@@ -302,11 +297,6 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "b52622122c19a3894e62fc5506d7c3332d202504fd406d6718be646f979feb40"
-metafile = true
-
-[[files]]
-file = "mods/playerrevive.pw.toml"
-hash = "4674b9fda4bdaf5b2d374b2f2d03e71bed4b41949fab6090fe9fc1ee627aa2ea"
 metafile = true
 
 [[files]]
