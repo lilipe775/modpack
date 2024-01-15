@@ -1,0 +1,13 @@
+name = "Satako library"
+filename = "Satako-7.0.14-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c6dbc3e4aa8899458383b9a828dfe5d5776abde8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4777152
+project-id = 282037

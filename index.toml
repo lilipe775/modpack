@@ -85,11 +85,6 @@ hash = "19b506dbe7ba589ae43ec141e37431c16d3d2315526bbc84612405135a926b58"
 metafile = true
 
 [[files]]
-file = "mods/create-enchantment-industry.pw.toml"
-hash = "bf40c526fbd88da51f1891fe03d175e5db2fdaece4018269aeeeaa17483c9cf0"
-metafile = true
-
-[[files]]
 file = "mods/create-stuff-additions.pw.toml"
 hash = "e357fc625123177d04155eb3edf66a42cc8524aa86410dbb09e857ce036a074b"
 metafile = true
@@ -225,6 +220,11 @@ hash = "bdb4b62f139151049e9b26bea10b9cf1401a7638bea581e80ac5658e0eff5498"
 metafile = true
 
 [[files]]
+file = "mods/k-turrets.pw.toml"
+hash = "6d873ff55d1fa8b4408e8f0c37a66c0cdd6093c28577b15201d694c9c94467e7"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "826c59a1e607641acb85f1e23a2bb7183a2f0a9ccd19ea4f01bbc9d94d480acf"
 metafile = true
@@ -342,6 +342,11 @@ metafile = true
 [[files]]
 file = "mods/sanity-descent-into-madness.pw.toml"
 hash = "f765e9ddeb51d4f1d02b48bf6565ff76db1ae5e953890a0d576b7c6fb311ba1b"
+metafile = true
+
+[[files]]
+file = "mods/satako-library.pw.toml"
+hash = "3dfb3c3902e05a979fbe88b948c97556934db1094d4b133a45c6ff55ead32340"
 metafile = true
 
 [[files]]
