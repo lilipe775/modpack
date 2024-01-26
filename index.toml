@@ -165,6 +165,11 @@ hash = "41e38f9b7cbe1c33c6746c3a48a517297a61a4bf6282f08f3132822f24c64f28"
 metafile = true
 
 [[files]]
+file = "mods/everyxdance.pw.toml"
+hash = "608dab2f8166c7f0b627ed6751303346668a063c169e5d2fb3f5571c9af67c93"
+metafile = true
+
+[[files]]
 file = "mods/fastsuite.pw.toml"
 hash = "f66951f1aede8b984643c636b2f3177354395254f9e60a9728dbcbcf1d94668d"
 metafile = true
@@ -217,11 +222,6 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "bdb4b62f139151049e9b26bea10b9cf1401a7638bea581e80ac5658e0eff5498"
-metafile = true
-
-[[files]]
-file = "mods/k-turrets.pw.toml"
-hash = "6d873ff55d1fa8b4408e8f0c37a66c0cdd6093c28577b15201d694c9c94467e7"
 metafile = true
 
 [[files]]
@@ -307,6 +307,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "50579877561744484c4174f4ec196863cbba113e75f1b88023972d45dfa8fa8d"
+metafile = true
+
+[[files]]
+file = "mods/prelaws-blocky-siege.pw.toml"
+hash = "609fe9f041128ae14e48759d54b924e8e6ca9c2d5454d1a20655ff6fbd37081f"
 metafile = true
 
 [[files]]

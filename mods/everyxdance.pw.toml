@@ -1,0 +1,13 @@
+name = "EveryXDance"
+filename = "everyxdance-1.0.0-pre-release.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "df574c83d352487239c44be5c06fc965b4f8ba47"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5049972
+project-id = 965086
