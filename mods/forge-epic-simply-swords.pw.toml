@@ -1,0 +1,13 @@
+name = "[FORGE] epic simply swords"
+filename = "epic_simply_swords_mod_1.20.1_(v19).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "593a4fe1d4c696e381bdd251bdee961d8c7b6fe0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5066146
+project-id = 959921
