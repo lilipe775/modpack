@@ -1,0 +1,13 @@
+name = "The Box of Horrors"
+filename = "BOH_0.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "908de8fee55bf9d43cccdf124f26be7ec82e7e9e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4985692
+project-id = 408707

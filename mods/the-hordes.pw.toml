@@ -1,13 +1,13 @@
 name = "The Hordes"
-filename = "The-Hordes-1.20.1-1.3.0b.jar"
+filename = "The-Hordes-1.20.1-1.3.2b.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "be1840cf42279f301147502680e91a583fd7be44"
+hash = "85e07ab0e95e30c2d54f22be1948c2a59b1fe6eb"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5004505
+file-id = 5090316
 project-id = 485779
