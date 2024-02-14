@@ -35,6 +35,11 @@ hash = "8e3bdef718f951335f2f9ebf29a73ea2fbeb1d4fcf2603cf06db617e0e7ade4e"
 metafile = true
 
 [[files]]
+file = "mods/biomancy.pw.toml"
+hash = "04d19f8d6ec75adc835b8d7650df784164c1b425027f7ad7d95c6333b5be55df"
+metafile = true
+
+[[files]]
 file = "mods/bosses-of-mass-destruction-forge.pw.toml"
 hash = "27319f2009a23bcb158abf58ae950c4ce69b296b44221e375ac7f42fa11b6fc2"
 metafile = true
@@ -102,6 +107,11 @@ metafile = true
 [[files]]
 file = "mods/create-deco.pw.toml"
 hash = "4bc5d111a9937302546ee8f831b4881f2085bfbac982b94bdf9aec3bd426a53a"
+metafile = true
+
+[[files]]
+file = "mods/create-love-war.pw.toml"
+hash = "4f7b365a33e34e7fb05c76925e78b748e5fa503860dbfb60a8578b577c07204a"
 metafile = true
 
 [[files]]
@@ -217,6 +227,11 @@ metafile = true
 [[files]]
 file = "mods/fix-gpu-memory-leak.pw.toml"
 hash = "c4032dc8c4f85576b7d89f719aa56241fbcdede45d3fc8bad43c86e499d01a67"
+metafile = true
+
+[[files]]
+file = "mods/flans-mod-reloaded.pw.toml"
+hash = "852de62a0b281fc7176cbca72db7fa859dcddd96f7964524fcd1e39155f746e8"
 metafile = true
 
 [[files]]
@@ -355,6 +370,11 @@ hash = "bbeb1bee50265ee6c9ac251cceeafa779368fedb6688956451978a072989ab94"
 metafile = true
 
 [[files]]
+file = "mods/origins-forge.pw.toml"
+hash = "cc3646d68b3dc6735545a5f571c99454f2363b4441982d5063c2ce939b8c4658"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "9a0ab52020c3a2d073e71f07ce11b9d2d8ae0a17b8a3cf0c9227029a51df51c3"
 metafile = true
@@ -385,6 +405,11 @@ hash = "b52622122c19a3894e62fc5506d7c3332d202504fd406d6718be646f979feb40"
 metafile = true
 
 [[files]]
+file = "mods/plenty-of-golems.pw.toml"
+hash = "6b3db7ce7edd8ced38e9464a5bad444266af49d152e1d21b9b235fb7325331e7"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "50579877561744484c4174f4ec196863cbba113e75f1b88023972d45dfa8fa8d"
 metafile = true
@@ -407,6 +432,11 @@ metafile = true
 [[files]]
 file = "mods/radium-reforged.pw.toml"
 hash = "1e4d5c14c4d87c48cae80fd6ce003ad1db70037ea810830504cf0c939ced05b4"
+metafile = true
+
+[[files]]
+file = "mods/relics-mod.pw.toml"
+hash = "d898e0b784c5553ccb5b8c2c1120d2d6f5032919368fdb6aa5ac821c2ae9db01"
 metafile = true
 
 [[files]]
