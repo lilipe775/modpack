@@ -70,6 +70,11 @@ hash = "8030da14650fe16ae562081befa58a7cec9c4f1aec281c10b40ad5ed6f04f834"
 metafile = true
 
 [[files]]
+file = "mods/chunkpregenerator.pw.toml"
+hash = "afe44b9aeb53fc7044c9f5e88ae66ab290998c2b627f68e6f85b0f9b6c8f870a"
+metafile = true
+
+[[files]]
 file = "mods/citadel.pw.toml"
 hash = "868e0da536e928b1510a81f1cb3cefdeb151580d3672c7a14642817e889c9a29"
 metafile = true
@@ -210,8 +215,18 @@ hash = "608dab2f8166c7f0b627ed6751303346668a063c169e5d2fb3f5571c9af67c93"
 metafile = true
 
 [[files]]
+file = "mods/fastfurnace.pw.toml"
+hash = "941194b650fa31742558efb25a2bc92b8bb6089da8cbf0f0eed096a6f76138b6"
+metafile = true
+
+[[files]]
 file = "mods/fastsuite.pw.toml"
 hash = "f66951f1aede8b984643c636b2f3177354395254f9e60a9728dbcbcf1d94668d"
+metafile = true
+
+[[files]]
+file = "mods/fastworkbench.pw.toml"
+hash = "77095e78d0432b58d1243f271e953c8c6b318bf8dbd0563358b07e15baf30a9c"
 metafile = true
 
 [[files]]
@@ -295,6 +310,11 @@ hash = "c5e13483aebcf2486938eec6dbfb7b4e9464d396b96bcb3abf1b1f2f0090dfd6"
 metafile = true
 
 [[files]]
+file = "mods/let-me-despawn.pw.toml"
+hash = "29e8b5ebc8295fbe6fd1bc2e7e036bf3ad21a905a7cc4d765053e3c56094943f"
+metafile = true
+
+[[files]]
 file = "mods/loot-integrations.pw.toml"
 hash = "f24bcf5bbd1af10cdb7917db6b10c81d0403efed8b2f283e5e861ba48502bea1"
 metafile = true
@@ -313,6 +333,10 @@ metafile = true
 file = "mods/measurements.pw.toml"
 hash = "0b56bf8c727d35f46ab02b74573112bf80cc57a09c99a72c7d93744bf9888830"
 metafile = true
+
+[[files]]
+file = "mods/memoryleakfix-forge-1.17+-1.1.5.jar"
+hash = "925c3db4e1d085a43c4d2beaa4eec18367c22abc90c2ce8594b8a129fd3f28dd"
 
 [[files]]
 file = "mods/minecells.pw.toml"
@@ -352,6 +376,11 @@ metafile = true
 [[files]]
 file = "mods/nyfs-spiders.pw.toml"
 hash = "361f5915170fc468704db1c693cfac69431b82fdefc380d6d2d7a95242799bb9"
+metafile = true
+
+[[files]]
+file = "mods/observable.pw.toml"
+hash = "b21b3850e6f670fc456ae89816a714fffd9dc71bfcd5bb9e631f03239979dc3b"
 metafile = true
 
 [[files]]
@@ -497,6 +526,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "0efaf17ef62391554f3f4fb43c2892df00006a0bb25d74c83891721340c821cb"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "d0e1a79dbcda8499e0f12f4adaa5503f9bbc84a6274ce07b3a3839476622e8e5"
 metafile = true
 
 [[files]]
