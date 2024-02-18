@@ -35,11 +35,6 @@ hash = "8e3bdef718f951335f2f9ebf29a73ea2fbeb1d4fcf2603cf06db617e0e7ade4e"
 metafile = true
 
 [[files]]
-file = "mods/biomancy.pw.toml"
-hash = "04d19f8d6ec75adc835b8d7650df784164c1b425027f7ad7d95c6333b5be55df"
-metafile = true
-
-[[files]]
 file = "mods/bosses-of-mass-destruction-forge.pw.toml"
 hash = "27319f2009a23bcb158abf58ae950c4ce69b296b44221e375ac7f42fa11b6fc2"
 metafile = true
@@ -65,8 +60,8 @@ hash = "05c45a8c75f1370dcce4f0e8291f854d072dadd0ceb6cafe5df1be248255003d"
 metafile = true
 
 [[files]]
-file = "mods/celestisynth.pw.toml"
-hash = "e63fa5725a78ab88222cfaa6f3b2b3ada82c4293bea66b8b9e296577ace0e1ab"
+file = "mods/canary.pw.toml"
+hash = "e5df83a3dd1686106741d1d61da5869aed0537c2931a40234e1b3bd2d09e1971"
 metafile = true
 
 [[files]]
@@ -427,11 +422,6 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "7a3bf97693ed052edf97f53e38a035244415b8fc0db346c8bac6efab2f457d94"
-metafile = true
-
-[[files]]
-file = "mods/radium-reforged.pw.toml"
-hash = "1e4d5c14c4d87c48cae80fd6ce003ad1db70037ea810830504cf0c939ced05b4"
 metafile = true
 
 [[files]]
